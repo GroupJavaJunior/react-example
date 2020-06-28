@@ -1,3 +1,5 @@
+RUN "npm run deploy" to publish on gh-page. https://groupjavajunior.github.io/react-example/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
